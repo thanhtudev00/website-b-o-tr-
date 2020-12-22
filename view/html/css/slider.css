@@ -1,0 +1,52 @@
+.wrapper
+{
+    max-width: 100%
+}
+.ot-title-block {
+    margin-bottom: 30px;
+    color: #a5a5a5;
+    border-bottom: 3px solid #e9eaea
+}
+.ot-content-block {
+    display: block;
+    margin-bottom: 50px
+}
+.ot-block-article-slider {
+    margin-bottom: 30px;
+    position: relative
+}
+.ot-block-article-slider .item a {
+    position: relative;
+    display: block;
+}
+.otg-items-3 .ot-widget-article-list img,
+.otg-items-4 .ot-widget-article-list img,
+.otg-items-5 .ot-widget-article-list img,
+.otg-items-6 .ot-widget-article-list img {
+    padding-bottom: 20px
+}
+.otg,
+.otg-items-1>.otg-item,
+.otg>.otg-item {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box
+}
+.otg-v-20 {
+    margin-top: -10px;
+    margin-bottom: -10px
+}
+
+.otg-v-20>.otg-item {
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.otg-v-30 {
+    margin-top: -15px;
+    margin-bottom: -15px
+}
+
+.otg-v-30>.otg-item {
+    margin-top: 15px;
+    margin-bottom: 15px
+}
